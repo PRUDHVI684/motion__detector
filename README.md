@@ -29,9 +29,11 @@ If a significant difference is detected (motion), it highlights the motion regio
 Optionally, the frame is saved as an image for later review.
 
 **Output**
+
 Motion regions highlighted in the webcam feed
 
 **Use cases**
+
 Basic home security system
 
 Monitor pet or room activity
